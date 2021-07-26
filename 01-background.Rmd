@@ -4,4 +4,25 @@
 
 ## Existing resources
 
+Online seminars, lectures, courses
+
+- [iFAST Theoretical Ecology Series](https://www.ou.edu/ieg/seminars/ifast2107)
+- CourseSource stuff
+    - [Multiple dimensions of biodiversity](https://www.coursesource.org/course/ecology/what-is-biodiversity-at-the-genetic-species-and-functional-niche-level-within-an-area)
+    - [phylogenetics](https://www.coursesource.org/courses/building-trees-introducing-evolutionary-concepts-by-exploring-crassulaceae-phylogeny-and)
+    - [natural selection](https://www.coursesource.org/courses/a-quick-and-simple-natural-selection-role-play)
+    - [Intro mathematical biology](https://www.coursesource.org/courses/a-first-lesson-in-mathematical-modeling-for-biologists-rocs)
+    - [Pop gen](https://www.coursesource.org/course/genetics/what-are-the-processes-that-can-affect-the-frequency-of-genotypes-and-phenotypes-in)
+
+Textbooks
+
+- [ESA theory section list of books](https://www.esa.org/theory/resources/theory-books/)
+- [Encyclopedia of Theoretical Ecology](https://www.ucpress.edu/book/9780520269651/encyclopedia-of-theoretical-ecology)
+- [Theoretical Ecology: Concepts and Applications](https://www.nhbs.com/theoretical-ecology-book)
+- [Ricklefs' Ecology](https://www.amazon.com/Ecology-Robert-E-Ricklefs/dp/071672829X)
+- [Morin's Community Ecology](https://www.amazon.com/Ecology-Robert-E-Ricklefs/dp/071672829X)
+- [Gotelli's Primer of Ecology](https://www.amazon.com/A-Primer-Ecology-Fourth-Edition/dp/0878933182/ref=sr_1_1?ie=UTF8&qid=1332865901&sr=8-1)
+- [An Illustrated Guide to Theoretical Ecology](https://www.amazon.com/Illustrated-Guide-Theoretical-Ecology/dp/0195085124/ref=sr_1_3?dchild=1&keywords=An+Illustrated+Guide+to+Theoretical+Ecology&qid=1627326560&s=books&sr=1-3)
+
+
 ## Course overview: map of modules
