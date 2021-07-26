@@ -1,0 +1,10 @@
+# Why theory? {#why_theory}
+
+Why is it useful to develop theory?
+
+## Theory for conceptual insight
+
+## Theory for prediction
+
+## Insight and prediction for real applications
+

@@ -1,0 +1,13 @@
+# Testing the netural theory and competitive coexistence {#testing_neutral_coexist}
+
+## Exploritory analysis
+
+Show things like:
+
+- time to equilibrium is older than angiosperms
+- convergent shapes of SADs
+
+## Fitting the models to data
+
+## Comparing model support
+

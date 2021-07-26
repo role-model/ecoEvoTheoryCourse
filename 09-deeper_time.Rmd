@@ -1,0 +1,13 @@
+# Solving biodiversity paradoxes by exploring deeper time patterns {#intro_evo}
+
+## Temporal dynamics can help distinguish ecological processes
+
+## Ecological processes derive from evolutionary processes
+
+Talk especially about trait differences leading to fitness and competitive differences in ecological theory
+
+## Evolutionar processes derive from ecological processes
+
+Talk about hypotheses about evolutionary character displacement
+
+## Prelude: how can we model eco-evolutionary feedbacks?

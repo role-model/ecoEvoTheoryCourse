@@ -1,0 +1,7 @@
+# Simple metrics for summarizing theoretical ecological predictions {#simple_metrics}
+
+## Species richness
+
+## Species abundance
+
+## Hill numbers

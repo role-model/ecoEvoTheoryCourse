@@ -1,0 +1,5 @@
+# Introducing the Rules of Life Engine {#intro_role}
+
+## Simulating the neutral theory of biodiversity with the RoLE model
+
+## Prelude: who would we test this theory with real data?

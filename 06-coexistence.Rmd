@@ -1,0 +1,5 @@
+# Competitive coexistence theory {#coexistence}
+
+## Simulating modern competitive coexistence theory with the RoLE model
+
+## Prelude: where do fitness and competitive differences come from?

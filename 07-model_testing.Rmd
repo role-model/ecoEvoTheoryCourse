@@ -1,0 +1,14 @@
+# Briefest of introductions to model testing {#intro_testing}
+
+## Exploritory analysis
+
+Would be cool to wrap up this section with a question like: "but could we know the probability of the data given the model?"
+
+## What is likelihood
+
+## Model fitting with likelihood
+
+## Model comparison with likelihood
+
+## Beyond likelihood
+
