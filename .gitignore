@@ -4,3 +4,5 @@
 .Ruserdata
 Icon?
 .DS_Store
+*.rds
+_book/
