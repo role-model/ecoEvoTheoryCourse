@@ -1,0 +1,6 @@
+book_filename: "ecoEvoTheoryCourse"
+language:
+  ui:
+    chapter_name: "Module "
+delete_merged_file: true
+new_session: yes

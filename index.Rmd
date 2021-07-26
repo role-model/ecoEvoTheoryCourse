@@ -1,0 +1,14 @@
+---
+title: 'Theory in ecology and evolution with applications for a changing world'
+author: 'Andrew J. Rominger'
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+---
+
+# About this course {-}
+
+Foo foo foo
+
+## Acknowledgements {-}
+
+Bar bar bar
