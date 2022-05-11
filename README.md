@@ -2,6 +2,8 @@
 
 A flipped course to be offered at the University of Maine and online starting Fall 2022.
 
+<p style="background-color:powderblue;">
+
 ## Module: Introduction
 
 Learning goals
@@ -24,7 +26,7 @@ Learning goals
 
 - present use cases for eco-evo theory
 - distinguish between three overlapping uses:
-    - Theory for conceptual insight (e.g. what processes are important for assembly in ecosystem $x$ versus $y$?)
+    - Theory for conceptual insight (e.g. what processes are important for assembly in ecosystem *x* versus *y*?)
     - Theory for prediction (e.g. how many species will go extinct in the coming century?)
     - Theory for decision making (e.g. given the processes we infer to be at play, how can we reduce extinctions?)
 
@@ -33,6 +35,7 @@ Learning goals
 - brainstorm based on the question
 - map the interests of the students to the course topics and goals
 
+</p>
 
 ## Moduel: Start simple
 
