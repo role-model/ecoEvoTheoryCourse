@@ -6,8 +6,10 @@ A flipped course to be offered at the University of Maine and online starting Fa
 ## Module: Introduction
 
 Learning goals
-- foo
-- bar
+- Establish why theories are useful
+- Establish expectations for the course
+- Verbalize student interests and individual learning goals
+
 
 ### In class: Getting started
 
@@ -16,19 +18,16 @@ Activities
 - go over course goals, expectations, code of ethics
 - go over format
 
-Learning goals
-- foo
-- bar
-
 
 ### Video: Why theory?
 
-Activities
+Topics
 - present use cases for eco-evo theory
 - distinguish between three overlapping uses:
     - Theory for conceptual insight (e.g. what processes are important for assembly in ecosystem *x* versus *y*?)
     - Theory for prediction (e.g. how many species will go extinct in the coming century?)
     - Theory for decision making (e.g. given the processes we infer to be at play, how can we reduce extinctions?)
+
 
 ### In class: What do you hope to use theory for?
 
@@ -44,7 +43,7 @@ The idea with starting simple (simple means minimally mechanistic models, i.e., 
 
 ### Video: The theory of island biogeography
 
-Activities
+Topics
 - present the standard island biogeography theory (IBT)
 - why it was revolutionary (i.e. made predictions for the first time in a science that was generally more descriptive)
 - discuss ["the complicated legacy of e.o. wilson"](https://www.scientificamerican.com/article/the-complicated-legacy-of-e-o-wilson/)
@@ -59,7 +58,7 @@ Activities
 
 ### Video: The neutral theory of biodiversity
 
-Activities
+Topics
 - build from IBT to neutral theory of biodiversity (NTB)
 - do an analog simulation of neutral theory
 - explore predictions of neutral theory including
@@ -79,7 +78,7 @@ Activities
 
 ### Video: The neutral theory of biodiversity
 
-Activities
+Topics
 - build from IBT to neutral theory of biodiversity (NTB)
 - do an analog simulation of neutral theory
 - explore predictions of neutral theory including
@@ -99,7 +98,7 @@ Activities
 
 ### Video: The neutral theory of biodiversity
 
-Activities
+Topics
 - build from IBT to neutral theory of biodiversity (NTB)
 - do an analog simulation of neutral theory
 - talk about why it was revolutionary and critiques 
@@ -107,7 +106,7 @@ Activities
 
 ### Video: Simple biodiversity metrics
 
-Activities
+Topics
 - richness, SAD, Hill numbers
 - explore predictions of neutral theory including
     - SAD, richness, Hill
@@ -128,14 +127,14 @@ Activities
 
 ### Video: Introducing the RoLE model GUI
 
-Activities
+Topics
 - use neutral theory to motivate the RoLE model GUI
 - play around with inputs and outputs
 - show something cool students couldn't do "by hand"
 
 ### Video: Working with the RoLE model on CyVerse
 
-Activities
+Topics
 - walk through making CyVerse account
 - walk through using CyVerse app (specifically the RoLE model)
 
@@ -155,7 +154,7 @@ Activities
 
 ### Video: Lotka-Volterra
 
-Activities
+Topics
 - conceptual transition from NTB?
 - present the models for predation and for competition
 - discuss how foundational it is to ecology and evolution 
@@ -165,35 +164,36 @@ Activities
 ### In class: Lotka-Volterra
 
 Activities
-- foo
-- bar
+- play with Lotka-Volterra model with RoLE
+- figure out critera for stability
 
 
 ### Video: Competitive coexistence and environmental filtering
 
-Activities
-- foo
-- bar
+Topics
+- niche differences, competitive differences
+- go over the literature
+- show how we can do this in RoLE
 
 ### In class: Competitive coexistence and environmental filtering
 
 Activities
-- foo
-- bar
+- play with competition and filtering in RoLE
+- figure out how species richness responds to competition and filtering compared to neutral theory
 
 
 
 ### Video: Networks and random matrix theory
 
-Activities
-- foo
-- bar
+Topics
+- interaction types besides competition
+- networks
+- putting all that together in random matrices
 
 ### In class: Networks and random matrix theory
 
 Activities
-- foo
-- bar
+- play with random matrix model?
 
 
 ## Module: Model fitting with traditional statistics
@@ -201,7 +201,7 @@ Activities
 
 ### Video: Model fitting with traditional statistics
 
-Activities
+Topics
 - cover curve fitting and it's shortcomings
 - move to likelihood
 - "exact test"
@@ -216,13 +216,13 @@ Activities
 
 ### Video: Working with GitHub
 
-Activities
+Topics
 - walk through setting up GitHub and RStudio
 - talk about importance of project-oriented workflows (e.g. use .RProj)
 
 ### Video: RMarkdown
 
-Activities
+Topics
 - walk through RMarkdown
 
 
@@ -239,7 +239,7 @@ Activities
 
 ### Video: Importance of temporal dynamics in eco-evo theories
 
-Activities
+Topics
 - talk about how time could break model non-identifiability
 - talk about how to capture temporal patterns
     - fossil
@@ -256,7 +256,7 @@ Activities
 
 ### Video: Macroevolution---speciation, extinction, traits
 
-Activities
+Topics
 - birth-death models of evolution
 - how do traits evolve?
 - link traits to competition and enviro filtering
@@ -271,7 +271,7 @@ Activities
 
 ### Video: Microevolution---demography and mutation
 
-Activities
+Topics
 - talk about coalescence as the link between eco and micro-evo
 - mutation models
 - how do we infer demography?
@@ -291,8 +291,8 @@ Do we need something more about genetic metrics like we had for ecological metri
 
 ### Video: Why we can't fit these full MESS models with likelihood and what we can do about it
 
-Activities
-- refer back to the "exact test" to motivate the idea of simulating a bunch
+Topics
+- refer back to the "exact test" to motivate the idea of simulating a bunch of data sets
 - but we don't have a likelihood
 - ABC
 - likelihood-free ML
@@ -306,7 +306,7 @@ Activities
 
 ### Video: Likelihood-free ML
 
-Activities
+Topics
 - The details of likelihood-free ML
 
 
@@ -322,7 +322,7 @@ Activities
 
 ### Video: Eco-evo feedbacks 
 
-Activities
+Topics
 - some cool eco-evo feedback example
 
 ## In class: Eco-evo feedbacks 
@@ -333,7 +333,7 @@ Activities
 
 ### Video: Conservation application 1
 
-Activities
+Topics
 - some cool conservation example
 
 ### In class: Conservation application 1
@@ -344,7 +344,7 @@ Activities
 
 ### Video: Conservation application 2
 
-Activities
+Topics
 - some cool conservation example
 
 ### In class: Conservation application 2
