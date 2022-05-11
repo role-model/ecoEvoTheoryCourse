@@ -2,7 +2,6 @@
 
 A flipped course to be offered at the University of Maine and online starting Fall 2022.
 
-<body style="background-color:powderblue;">
 
 ## Module: Introduction
 
@@ -10,7 +9,7 @@ Learning goals
 - foo
 - bar
 
-### In class activity: Getting started
+### In class: Getting started
 
 Activities
 - make introductions of students and their interests in the course
@@ -24,18 +23,20 @@ Learning goals
 
 ### Video: Why theory?
 
+Activities
 - present use cases for eco-evo theory
 - distinguish between three overlapping uses:
     - Theory for conceptual insight (e.g. what processes are important for assembly in ecosystem *x* versus *y*?)
     - Theory for prediction (e.g. how many species will go extinct in the coming century?)
     - Theory for decision making (e.g. given the processes we infer to be at play, how can we reduce extinctions?)
 
-### In class activity: What do you hope to use theory for?
+### In class: What do you hope to use theory for?
 
+Activities
 - brainstorm based on the question
 - map the interests of the students to the course topics and goals
 
-</body>
+
 
 ## Moduel: Start simple
 
@@ -43,23 +44,316 @@ The idea with starting simple (simple means minimally mechanistic models, i.e., 
 
 ### Video: The theory of island biogeography
 
+Activities
 - present the standard island biogeography theory (IBT)
 - why it was revolutionary (i.e. made predictions for the first time in a science that was generally more descriptive)
 - discuss ["the complicated legacy of e.o. wilson"](https://www.scientificamerican.com/article/the-complicated-legacy-of-e-o-wilson/)
 
 
-### In class activity: The theory of island biogeography
+### In class: The theory of island biogeography
 
-- explore IBT predictions (with RoLE??) 
+Activities
+- explore IBT predictions
 - discuss complicated legacies in science
 
 
-### Video: The neutral theory of biodiversity 
+### Video: The neutral theory of biodiversity
 
+Activities
 - build from IBT to neutral theory of biodiversity (NTB)
+- do an analog simulation of neutral theory
+- explore predictions of neutral theory including
+    - SAD
+    - temporal dynamics
+    - SAR (??)
+    - phylogeny (??)
+- talk about why it was revolutionary and critiques 
 
 
-### In class activity: The theory of island biogeography
+### In class: The neutral theory of biodiversity
 
-- explore TIB predictions (with RoLE??)
-- discuss complicated legacies in science
+Activities
+- explore NTB predictions 
+- discuss what's missing from NTB and how that might matter
+
+
+### Video: The neutral theory of biodiversity
+
+Activities
+- build from IBT to neutral theory of biodiversity (NTB)
+- do an analog simulation of neutral theory
+- explore predictions of neutral theory including
+    - SAD
+    - temporal dynamics
+    - SAR (??)
+    - phylogeny (??)
+- talk about why it was revolutionary and critiques 
+
+
+### In class: The neutral theory of biodiversity
+
+Activities
+- explore NTB predictions 
+- discuss what's missing from NTB and how that might matter
+
+
+### Video: The neutral theory of biodiversity
+
+Activities
+- build from IBT to neutral theory of biodiversity (NTB)
+- do an analog simulation of neutral theory
+- talk about why it was revolutionary and critiques 
+
+
+### Video: Simple biodiversity metrics
+
+Activities
+- richness, SAD, Hill numbers
+- explore predictions of neutral theory including
+    - SAD, richness, Hill
+    - temporal dynamics
+    - SAR (??)
+    - phylogeny (??)
+
+
+
+### In class: The neutral theory of biodiversity and simple metrics
+
+Activities
+- explore NTB predictions 
+- discuss what's missing from NTB and how that might matter
+- discuss questions about SADs and other metrics
+
+
+
+### Video: Introducing the RoLE model GUI
+
+Activities
+- use neutral theory to motivate the RoLE model GUI
+- play around with inputs and outputs
+- show something cool students couldn't do "by hand"
+
+### Video: Working with the RoLE model on CyVerse
+
+Activities
+- walk through making CyVerse account
+- walk through using CyVerse app (specifically the RoLE model)
+
+
+
+### In class: Introducing the RoLE model GUI
+
+Activities
+- work out any CyVerse issues
+- play around with RoLE neutral
+- have some kind of goal for students to figure out a puzzel (e.g. how does increasing speciation rate change something cool or something)
+
+
+
+## Moduel: Species interactions and coexistence
+
+
+### Video: Lotka-Volterra
+
+Activities
+- conceptual transition from NTB?
+- present the models for predation and for competition
+- discuss how foundational it is to ecology and evolution 
+- discuss roots of logistic growth in Victorian biases 
+
+
+### In class: Lotka-Volterra
+
+Activities
+- foo
+- bar
+
+
+### Video: Competitive coexistence and environmental filtering
+
+Activities
+- foo
+- bar
+
+### In class: Competitive coexistence and environmental filtering
+
+Activities
+- foo
+- bar
+
+
+
+### Video: Networks and random matrix theory
+
+Activities
+- foo
+- bar
+
+### In class: Networks and random matrix theory
+
+Activities
+- foo
+- bar
+
+
+## Moduel: Model fitting with traditional statistics
+
+
+### Video: Model fitting with traditional statistics
+
+Activities
+- cover curve fitting and it's shortcomings
+- move to likelihood
+- "exact test"
+
+
+### In class: Model fitting with traditional statistics
+
+Activities
+- write a likelihood script for NTB
+- can anything be done with coexistence and likelihood?
+
+
+### Video: Working with GitHub
+
+Activities
+- walk through setting up GitHub and RStudio
+- talk about importance of project-oriented workflows (e.g. use .RProj)
+
+### Video: RMarkdown
+
+Activities
+- walk through RMarkdown
+
+
+### In class: GitHub and RMarkdown
+
+Activities
+- work out any GitHub issues
+- make a GitHub repo for project on likelihood
+- convert likelihood script to RMarkdown
+
+
+## Moduel: Time
+
+
+### Video: Importance of temporal dynamics in eco-evo theories
+
+Activities
+- talk about how time could break model non-identifiability
+- talk about how to capture temporal patterns
+    - fossil
+    - phylo
+    - pop gen
+
+
+### In class: Importance of temporal dynamics in eco-evo theories
+
+Activities
+- compare temporal dynamics of neutral v. competitive models
+
+
+
+### Video: Macroevolution---speciation, extinction, traits
+
+Activities
+- birth-death models of evolution
+- how do traits evolve?
+- link traits to competition and enviro filtering
+
+
+### In class: Macroevolution---speciation, extinction, traits
+
+Activities
+- explore trait evolution
+- explore roles of speciation v. immigration
+
+
+### Video: Microevolution---demography and mutation
+
+Activities
+- talk about coalescence as the link between eco and micro-evo
+- mutation models
+- how do we infer demography?
+
+
+### In class: Microevolution---demography and mutation
+
+Activities
+- genetic signatures of different past demographies
+
+Do we need something more about genetic metrics like we had for ecological metrics?
+
+
+
+## Moduel: Complex model fitting
+
+
+### Video: Why we can't fit these full MESS models with likelihood and what we can do about it
+
+Activities
+- refer back to the "exact test" to motivate the idea of simulating a bunch
+- but we don't have a likelihood
+- ABC
+- likelihood-free ML
+
+
+### In class: Building toward likelihood-free ML
+
+Activities
+- how to run many simulations
+
+
+### Video: Likelihood-free ML
+
+Activities
+- The details of likelihood-free ML
+
+
+### In class: likelihood-free ML
+
+Activities
+- take those many simulations and train a model with them
+- put real data through the trained ML model
+- interpret 
+
+
+## Module: Applications
+
+### Video: Eco-evo feedbacks 
+
+Activities
+- some cool eco-evo feedback example
+
+## In class: Eco-evo feedbacks 
+
+Activities
+- playing with some cool eco-evo feedback example
+- use many simulations approach to build distributions of outcomes
+
+### Video: Conservation application 1
+
+Activities
+- some cool conservation example
+
+## In class: Conservation application 1
+
+Activities
+- some cool conservation example
+
+
+### Video: Conservation application 2
+
+Activities
+- some cool conservation example
+
+## In class: Conservation application 2
+
+Activities
+- some cool conservation example
+
+
+## Module: Projects
+
+Teams will work on a project of their own choosing using the RoLE model. Could be simulating some process of interest, analyzing real data, writing extensions to the model, anything.
+
