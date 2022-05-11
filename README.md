@@ -38,7 +38,7 @@ Activities
 
 
 
-## Moduel: Start simple
+## Module: Start simple
 
 The idea with starting simple (simple means minimally mechanistic models, i.e., island biogeography and neutral theory) is to introduce core processes that can then have more complicated mechanisms layered on top of them.
 
@@ -146,11 +146,11 @@ Activities
 Activities
 - work out any CyVerse issues
 - play around with RoLE neutral
-- have some kind of goal for students to figure out a puzzel (e.g. how does increasing speciation rate change something cool or something)
+- have some kind of goal for students to figure out a puzzle (e.g. how does increasing speciation rate change something cool or something)
 
 
 
-## Moduel: Species interactions and coexistence
+## Module: Species interactions and coexistence
 
 
 ### Video: Lotka-Volterra
@@ -196,7 +196,7 @@ Activities
 - bar
 
 
-## Moduel: Model fitting with traditional statistics
+## Module: Model fitting with traditional statistics
 
 
 ### Video: Model fitting with traditional statistics
@@ -234,7 +234,7 @@ Activities
 - convert likelihood script to RMarkdown
 
 
-## Moduel: Time
+## Module: Time
 
 
 ### Video: Importance of temporal dynamics in eco-evo theories
@@ -286,7 +286,7 @@ Do we need something more about genetic metrics like we had for ecological metri
 
 
 
-## Moduel: Complex model fitting
+## Module: Complex model fitting
 
 
 ### Video: Why we can't fit these full MESS models with likelihood and what we can do about it
@@ -336,7 +336,7 @@ Activities
 Activities
 - some cool conservation example
 
-## In class: Conservation application 1
+### In class: Conservation application 1
 
 Activities
 - some cool conservation example
@@ -347,7 +347,7 @@ Activities
 Activities
 - some cool conservation example
 
-## In class: Conservation application 2
+### In class: Conservation application 2
 
 Activities
 - some cool conservation example
