@@ -2,7 +2,7 @@
 
 A flipped course to be offered at the University of Maine and online starting Fall 2022.
 
-<p style="background-color:powderblue;">
+<body style="background-color:powderblue;">
 
 ## Module: Introduction
 
@@ -35,7 +35,7 @@ Learning goals
 - brainstorm based on the question
 - map the interests of the students to the course topics and goals
 
-</p>
+</body>
 
 ## Moduel: Start simple
 
